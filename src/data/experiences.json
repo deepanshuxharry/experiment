@@ -1,0 +1,47 @@
+[
+  {
+    "time": "Mar 2024 - Present",
+    "title": "Graduate CFD Software Developer - Aston Martin F1",
+    "description": "Maintain and develop visualisation software for our CFD process.",
+    "tags": [
+      "CFD",
+      "React",
+      "Python",
+      "Rust",
+      "PostgreSQL"
+    ]
+  },
+  {
+    "time": "Jun 2022 - Present",
+    "title": "Software Engineer - Freelance",
+    "description": "Designed, developed and shipped production code for multiple clients using PHP Laravel, NextJS and NestJS",
+    "tags": [
+      "TypeScript",
+      "NextJS",
+      "NestJS",
+      "OpenAI-GPT"
+    ]
+  },
+  {
+    "time": "Jun 2022 - Feb 2024",
+    "title": "Web Developer - T.K. Graphics",
+    "description": "Delivered right quality, robust production code for diverse array of projects using PHP-Laravel and ReactJS.",
+    "tags": [
+      "PHP",
+      "Laravel",
+      "ReactJS",
+      "EPace API"
+    ]
+  },
+  {
+    "time": "Mar - Dec 2023",
+    "title": "Software Engineer - CampusLyfe",
+    "description": "Designed and developed a system for managing customer's orders and processing payment securely. Collaborated with a other student software engineer to build a robust and sable frontend system using NextJS and Tailwind CSS",
+    "tags": [
+      "TypeScript",
+      "NextJS",
+      "Tailwind CSS",
+      "Payment Processing"
+    ]
+  }
+]
